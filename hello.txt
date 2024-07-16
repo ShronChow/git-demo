@@ -12,5 +12,5 @@ hello world! hello git! hello python!
 hello world! hello git! hello python!
 hello world! hello git! hello python!
 hello world! hello git! hello python!
-hello world! hello git! hello python!
+hello world! hello git! hello python!  git-fix-test
 hello world! hello git! hello python!
